@@ -1,5 +1,6 @@
 ## Key Variables for Cancer Diagnosis Using PCA at Anderson Cancer Center
-Project OverviewApplied Principal Component Analysis (PCA) to reduce the complexity of the breast cancer dataset and pinpoint the features most influential in distinguishing benign from malignant tumors. 
+# Project Overview
+Applied Principal Component Analysis (PCA) to reduce the complexity of the breast cancer dataset and pinpoint the features most influential in distinguishing benign from malignant tumors. 
 This analysis aims to support data-driven decisions for securing donor funding and optimizing diagnostic processes at the center.
 ## Requirements
 - Python 3.7 or higher
@@ -15,10 +16,10 @@ Output files (generated after running the script):
 pca_analysis.png: Visualizations of PCA results
 confusion_matrix.png: Model performance visualization
 feature_importance_analysis.csv: Rankings of feature importance
-pca_transformed_data.csv: PCA-transformed dataset
+pca_transformed_data.csv: PCA-transformed datase
 
 
-# How to Run
+## How to Run
 Ensure all dependencies are installed
 Execute the main script:
 Run
