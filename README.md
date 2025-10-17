@@ -1,0 +1,2 @@
+# Identifying_Key_Variables-_for_Cancer_Diagnosis_Using_PCA_at_Anderson_Cancer_Center
+Applied Principal Component Analysis (PCA) to reduce the complexity of the breast cancer dataset and pinpoint the features most influential in distinguishing benign from malignant tumors. This analysis aims to support data-driven decisions for securing donor funding and optimizing diagnostic processes at the center.
